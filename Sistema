@@ -1,0 +1,9 @@
+package usuarios;
+
+import java.util.ArrayList;
+
+public class Sistema {
+	//atributos
+	ArrayList <Usuario> listaDeUsuarios = new ArrayList <Usuario> ();
+	
+}
