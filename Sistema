@@ -1,0 +1,13 @@
+package usuarios;
+
+import java.util.ArrayList;
+
+public class Sistema {
+	//atributos
+	ArrayList <Usuario> listaDeUsuarios = new ArrayList <Usuario> ();
+	
+	//constructor
+	public Sistema (String nombreDelSistema) {
+		this.nombreDelSistema = nombreDelSistema;
+	}
+}
